@@ -71,39 +71,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="define.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/namespace/define.php">
+      <file leaf-file-name="preDefinedVariables.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/PreDefinedVariables/preDefinedVariables.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="50" selection-start="320" selection-end="320" vertical-scroll-proportion="0.0" vertical-offset="400" max-vertical-offset="625">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="useSeveralNameSpace.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/namespace/useSeveralNameSpace.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="7" selection-start="285" selection-end="285" vertical-scroll-proportion="0.0" vertical-offset="325" max-vertical-offset="575">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="global.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/namespace/global.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="21" selection-start="592" selection-end="592" vertical-scroll-proportion="-14.970589" vertical-offset="266" max-vertical-offset="975">
-              <folding>
-                <element signature="e#349#367#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Exception.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Exception/Exception.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="-3.4411764" vertical-offset="433" max-vertical-offset="875">
+            <state line="35" column="16" selection-start="575" selection-end="575" vertical-scroll-proportion="-12.823529" vertical-offset="439" max-vertical-offset="1125">
               <folding>
                 <element signature="e#6#89#0" expanded="true" />
               </folding>
@@ -111,21 +82,19 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="basic.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/generators/basic.php">
+      <file leaf-file-name="exception.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/predefinedException/exception.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="16" selection-start="1493" selection-end="1493" vertical-scroll-proportion="0.71719456" vertical-offset="1533" max-vertical-offset="2100">
-              <folding>
-                <element signature="e#6#90#0" expanded="true" />
-              </folding>
+            <state line="15" column="37" selection-start="353" selection-end="353" vertical-scroll-proportion="-7.7941175" vertical-offset="110" max-vertical-offset="550">
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="define1.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/namespace/define1.php">
+      <file leaf-file-name="error_exception.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/predefinedException/error_exception.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="0" selection-start="427" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="850">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="440">
               <folding />
             </state>
           </provider>
@@ -166,6 +135,9 @@
         <option value="$PROJECT_DIR$/namespace/global.php" />
         <option value="$PROJECT_DIR$/Exception/Exception.php" />
         <option value="$PROJECT_DIR$/generators/basic.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/PreDefinedVariables/preDefinedVariables.php" />
+        <option value="$PROJECT_DIR$/predefinedException/exception.php" />
       </list>
     </option>
   </component>
@@ -235,7 +207,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="generators" />
+              <option name="myItemId" value="types" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PhpLearning" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="predefinedException" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -325,11 +311,11 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="options.lastSelected" value="Configurable.PHP" />
+    <property name="options.lastSelected" value="web.server" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
-    <property name="last_opened_file_path" value="D:/php-5.5.8-Win32-VC11-x64" />
+    <property name="last_opened_file_path" value="D:/workspace/vela.website" />
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="recentsLimit" value="5" />
@@ -346,13 +332,18 @@
       <recent name="D:\GitHub\PersonalCoding\PhpLearning\Exception" />
     </key>
   </component>
-  <component name="RunManager" selected="PHP Script.basic.php">
-    <configuration default="false" name="useSeveralNameSpace.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/namespace/useSeveralNameSpace.php">
+  <component name="RunManager" selected="PHP Script.exception.php">
+    <configuration default="false" name="Exception.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Exception/Exception.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="define1.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/namespace/define1.php">
+    <configuration default="false" name="basic.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/generators/basic.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="index.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/index.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
@@ -362,12 +353,7 @@
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
     </configuration>
-    <configuration default="false" name="Exception.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Exception/Exception.php">
-      <RunnerSettings RunnerId="PhpRunner" />
-      <ConfigurationWrapper RunnerId="PhpRunner" />
-      <method />
-    </configuration>
-    <configuration default="false" name="basic.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/generators/basic.php">
+    <configuration default="false" name="exception.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/predefinedException/exception.php">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
@@ -569,26 +555,34 @@
       <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
       <method />
     </configuration>
+    <configuration default="false" name="preDefinedVariables.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" path="$PROJECT_DIR$/PreDefinedVariables/preDefinedVariables.php">
+      <RunnerSettings RunnerId="PhpRunner" />
+      <RunnerSettings RunnerId="PhpScriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpRunner" />
+      <ConfigurationWrapper RunnerId="PhpScriptDebugRunner" />
+      <method />
+    </configuration>
     <configuration default="false" name="php_application" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="wamp">
       <RunnerSettings RunnerId="PhpRunner" />
       <ConfigurationWrapper RunnerId="PhpRunner" />
       <method />
     </configuration>
-    <list size="6">
-      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.php_application" />
-      <item index="1" class="java.lang.String" itemvalue="PHP Script.useSeveralNameSpace.php" />
-      <item index="2" class="java.lang.String" itemvalue="PHP Script.define1.php" />
-      <item index="3" class="java.lang.String" itemvalue="PHP Script.global.php" />
-      <item index="4" class="java.lang.String" itemvalue="PHP Script.Exception.php" />
-      <item index="5" class="java.lang.String" itemvalue="PHP Script.basic.php" />
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="PHP Script.preDefinedVariables.php" />
+      <item index="1" class="java.lang.String" itemvalue="PHP Web Application.php_application" />
+      <item index="2" class="java.lang.String" itemvalue="PHP Script.Exception.php" />
+      <item index="3" class="java.lang.String" itemvalue="PHP Script.basic.php" />
+      <item index="4" class="java.lang.String" itemvalue="PHP Script.index.php" />
+      <item index="5" class="java.lang.String" itemvalue="PHP Script.global.php" />
+      <item index="6" class="java.lang.String" itemvalue="PHP Script.exception.php" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="PHP Script.basic.php" />
-        <item index="1" class="java.lang.String" itemvalue="PHP Script.Exception.php" />
-        <item index="2" class="java.lang.String" itemvalue="PHP Script.global.php" />
-        <item index="3" class="java.lang.String" itemvalue="PHP Script.define1.php" />
-        <item index="4" class="java.lang.String" itemvalue="PHP Script.useSeveralNameSpace.php" />
+        <item index="0" class="java.lang.String" itemvalue="PHP Script.exception.php" />
+        <item index="1" class="java.lang.String" itemvalue="PHP Script.index.php" />
+        <item index="2" class="java.lang.String" itemvalue="PHP Script.basic.php" />
+        <item index="3" class="java.lang.String" itemvalue="PHP Script.Exception.php" />
+        <item index="4" class="java.lang.String" itemvalue="PHP Script.global.php" />
       </list>
     </recent_temporary>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
@@ -630,16 +624,16 @@
       <workItem from="1392616600172" duration="2173000" />
       <workItem from="1392629094946" duration="2130000" />
       <workItem from="1392677381850" duration="2896000" />
-      <workItem from="1392686646823" duration="4783000" />
+      <workItem from="1392686646823" duration="10915000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30210000" />
+    <option name="totallyTimeSpent" value="36342000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -649,7 +643,7 @@
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32971016" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39892906" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -661,7 +655,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18884121" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32843792" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32968536" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -723,26 +717,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controlStructure/switch.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="325" selection-end="325" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="700" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/operators/execution_operators.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="103" selection-end="130" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="375" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/operators/array_operators.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="33" selection-start="143" selection-end="143" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="450" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/operators/type_operators.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="36" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="245" max-vertical-offset="775" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/controlStructure/if.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="8" selection-start="100" selection-end="100" vertical-scroll-proportion="0.0" vertical-offset="200" max-vertical-offset="525" />
@@ -846,11 +820,6 @@
     <entry file="file://$PROJECT_DIR$/types/array.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="11" column="2" selection-start="188" selection-end="188" vertical-scroll-proportion="0.0" vertical-offset="275" max-vertical-offset="425" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/types/array.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="99" column="0" selection-start="1944" selection-end="1944" vertical-scroll-proportion="-15.882353" vertical-offset="1935" max-vertical-offset="2625" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/operators/comparison.php">
@@ -966,18 +935,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/namespace/define1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="427" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="408" max-vertical-offset="850">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/namespace/global.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="31" column="21" selection-start="592" selection-end="592" vertical-scroll-proportion="-14.970589" vertical-offset="266" max-vertical-offset="975">
           <folding>
-            <element signature="e#349#367#0" expanded="true" />
+            <element signature="e#349#367#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -986,17 +948,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="0" selection-start="458" selection-end="458" vertical-scroll-proportion="-3.4411764" vertical-offset="433" max-vertical-offset="875">
           <folding>
-            <element signature="e#6#89#0" expanded="true" />
+            <element signature="e#6#89#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/generators/basic.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="16" selection-start="1493" selection-end="1493" vertical-scroll-proportion="0.71719456" vertical-offset="1533" max-vertical-offset="2100">
+        <state line="74" column="16" selection-start="1493" selection-end="1493" vertical-scroll-proportion="-9.323529" vertical-offset="1533" max-vertical-offset="2100">
           <folding>
-            <element signature="e#6#90#0" expanded="true" />
+            <element signature="e#6#90#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/namespace/define1.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="0" selection-start="427" selection-end="551" vertical-scroll-proportion="1.0180995" vertical-offset="0" max-vertical-offset="725">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="2" selection-start="24" selection-end="24" vertical-scroll-proportion="-1.4705882" vertical-offset="0" max-vertical-offset="200">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/types/array.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="99" column="0" selection-start="1944" selection-end="1944" vertical-scroll-proportion="0.6877828" vertical-offset="1946" max-vertical-offset="2400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PreDefinedVariables/preDefinedVariables.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="16" selection-start="575" selection-end="575" vertical-scroll-proportion="-12.823529" vertical-offset="439" max-vertical-offset="1125">
+          <folding>
+            <element signature="e#6#89#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predefinedException/exception.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="37" selection-start="353" selection-end="353" vertical-scroll-proportion="-7.7941175" vertical-offset="110" max-vertical-offset="550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/predefinedException/error_exception.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="474">
+          <folding />
         </state>
       </provider>
     </entry>
